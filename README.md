@@ -1,6 +1,6 @@
-# Flask & Express Fullstack Application
+# Flask & Express Application
 
-This project is a fullstack application consisting of a Flask backend and an Express frontend. The goal of this application is to demonstrate a simple client-server architecture where the frontend communicates with the backend through API calls.
+This project is a application consisting of a Flask backend and an Express frontend. The goal of this application is to demonstrate a simple client-server architecture where the frontend communicates with the backend through API calls.
 
 ## Project Structure
 
